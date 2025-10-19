@@ -30,7 +30,7 @@ const Hero = () => {
               <img 
                 src={phoneMockup} 
                 alt="NicaTrueque App" 
-                className="w-64 md:w-80 drop-shadow-2xl animate-float-slow"
+                className="w-48 md:w-64 drop-shadow-2xl animate-float-slow"
               />
               {/* Additional decorative circles around phone */}
               <div className="absolute -top-8 -right-8 w-16 h-16 rounded-full bg-[hsl(var(--decorative-orange))] opacity-70 flex items-center justify-center text-white font-bold">
