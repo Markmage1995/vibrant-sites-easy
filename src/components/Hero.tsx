@@ -15,10 +15,10 @@ const Hero = () => {
       <div className="container mx-auto px-6 py-20 md:py-32">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 z-10">
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
-              NicaTrueque:<br />
-              Vende, Cambia &<br />
-              & Connect
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
+              <span className="text-foreground">NicaTrueque:</span><br />
+              <span className="text-[hsl(var(--primary))]">Vende, Cambia</span><br />
+              <span className="text-foreground">& Conecta</span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-md">
               Tu marketplace por vender, interanbnscar products y connect ccth tuu communidlay
