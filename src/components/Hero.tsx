@@ -48,9 +48,8 @@ const Hero = () => {
                   App Store
                 </Button>
                 <Button variant="outline" className="bg-black text-white hover:bg-gray-800 border-black">
-                  <Play className="mr-2 h-5 w-5" />
+                  <Play className="mr-2 h-5 w-5 text-green-500" />
                   Google Play
-                  <Play className="ml-2 h-5 w-5" />
                 </Button>
               </div>
             </div>
