@@ -44,7 +44,7 @@ const Hero = () => {
               </Button>
               <div className="flex gap-3">
                 <Button variant="outline" className="bg-black text-white hover:bg-gray-800 border-black">
-                  <Apple className="mr-2 h-5 w-5" />
+                  <Apple className="mr-2 h-5 w-5 text-blue-500" />
                   App Store
                 </Button>
                 <Button variant="outline" className="bg-black text-white hover:bg-gray-800 border-black">
