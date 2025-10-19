@@ -16,21 +16,21 @@ const Header = () => {
 
           <nav className="hidden md:flex items-center gap-8">
             <a href="#features" className="text-muted-foreground hover:text-foreground transition-colors">
-              Features
+              Características
             </a>
             <a href="#pricing" className="text-muted-foreground hover:text-foreground transition-colors">
-              Pricing
+              Precios
             </a>
             <a href="#testimonials" className="text-muted-foreground hover:text-foreground transition-colors">
-              Testimonials
+              Testimonios
             </a>
             <a href="#download" className="text-muted-foreground hover:text-foreground transition-colors">
-              Download
+              Descargar
             </a>
           </nav>
 
           <Button variant="outline" className="border-primary text-primary hover:bg-primary hover:text-white transition-all">
-            Sign In
+            Iniciar Sesión
           </Button>
         </div>
       </div>
