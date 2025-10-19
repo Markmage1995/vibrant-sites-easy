@@ -50,6 +50,7 @@ const Hero = () => {
                 <Button variant="outline" className="bg-black text-white hover:bg-gray-800 border-black">
                   <Play className="mr-2 h-5 w-5" />
                   Google Play
+                  <Play className="ml-2 h-5 w-5" />
                 </Button>
               </div>
             </div>
