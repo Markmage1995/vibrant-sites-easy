@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import phoneMockup from "@/assets/phone-mockup.png";
+import phoneMockup from "@/assets/phone-hand-mockup.png";
 import { Apple, Play } from "lucide-react";
 
 const Hero = () => {
