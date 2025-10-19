@@ -20,7 +20,7 @@ const Hero = () => {
               <span className="text-[hsl(var(--primary))]">Vende, Cambia</span><br />
               <span className="text-foreground">& Conecta</span>
             </h1>
-            <p className="text-lg md:text-xl text-muted-foreground max-w-md">
+            <p className="text-lg md:text-xl text-foreground max-w-md">
               Tu marketplace por vender, interanbnscar products y connect ccth tuu communidlay
             </p>
           </div>
